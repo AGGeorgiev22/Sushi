@@ -1,0 +1,25 @@
+body{
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background: #0D84CF;
+}
+#img{
+    position: absolute;
+    width: 800px;
+    height: 543px;
+    left: 56px;
+    top: 103px;
+}
+.p{
+    position: absolute;
+    width: 907px;
+    height: 892px;
+    left: 960px;
+    top: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+}

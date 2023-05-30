@@ -1,0 +1,22 @@
+body{
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background: #0D84CF;
+}
+.Benefits{
+    position: absolute;
+    width: 1255px;
+    height: 926px;
+    left: -1px;
+    top: 83px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    
+    color: #000000;
+    
+}
