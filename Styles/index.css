@@ -1,4 +1,9 @@
-body{
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+body,html{
     position: relative;
     width: 1920px;
     height: 1080px;
