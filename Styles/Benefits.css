@@ -5,12 +5,11 @@ body{
     background: #0D84CF;
 }
 .Benefits{
-    position: absolute;
+    position: relative;
     width: 1255px;
     height: 926px;
     left: -1px;
     top: 83px;
-    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;

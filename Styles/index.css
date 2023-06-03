@@ -2,13 +2,16 @@
     margin: 0;
     padding: 0;
   }
-  
+ html{
+    overflow-x: hidden;
+ }
 body,html{
-    position: relative;
     width: 1920px;
     height: 1080px;
     background-color: #0D84CF;
+
 }
+
 #h1{
     position: absolute;
     width: 1052px;
@@ -18,35 +21,22 @@ body,html{
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 96px;
-    line-height: 116px;
+    font-size: 32px;
+    line-height: 32px;
     position: absolute;
+
 }
+
 .navbar {
+    margin-left: 9vw;
     text-decoration: none;
     position: absolute;
-    width: 1349px;
-    height: 39px;
-    left: 270px;
+    left: 40px;
     top: 53px;
-
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 39px;
-    width: 100vw;
+    width: 85vw;
     height: 10vh;
     background-color: #0D84CF;
     color: black;
- 
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
- 
-    padding-left: 0px;
-    padding-right: 0px
 }
 #text{
     color: black;
@@ -61,25 +51,25 @@ body,html{
     color: black;
 }
 #img{
+    margin-left:  5vw;
     position: absolute;
-    width: 788px;
-    height: 456px;
+    width: 600px;
+    height: 300px;
     left: 0px;
     top: 368px;
     border-radius: 70px;
 }
+
 .p{position: absolute;
     width: 1081px;
     height: 831px;
     left: 818px;
     top: 341px;
-    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 44px;
+    font-size: 24px;
     line-height: 53px;
-    
     color: #000000;}
     #Home{
         color: black;
@@ -87,5 +77,14 @@ body,html{
     a{
         text-decoration: none;
     }
-    
+h3{
+    display: inline-block;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    margin-left: 90px;
+    margin-top: 3vh;
 
+}
