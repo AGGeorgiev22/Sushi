@@ -9,7 +9,8 @@ body{
     width: 800px;
     height: 543px;
     left: 56px;
-    top: 203px;
+    top: 363px;
+    border-radius: 70px;
 }
 .p{
     position: absolute;

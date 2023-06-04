@@ -6,24 +6,24 @@ body {
 
 #img {
     position: absolute;
-    width: 600px; 
-    height: 600px; 
-    left: 384px; 
-    top: 0; 
+    width: 935px;
+    height: 859px;
+    left: 870px;
+    top: 200px;
     border-radius: 70px;
 }
 
 .p {
     position: absolute;
-    width: 960px; 
-    height: 1080px; 
-    left: 0; 
-    top: 0; 
-
+    width: 763px;
+    height: 1442px;
+    left: 52px;
+    top: 170px;
+    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 32px;;
+    font-size: 36px;
     line-height: 44px;
     
     color: #000000;

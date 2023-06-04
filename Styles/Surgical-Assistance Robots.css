@@ -7,8 +7,8 @@ body{
 .p {
     position: absolute;
     width: 50%;
-    right: 0;
-    top: 26px;
+    right: 150px;
+    top: 200px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -19,10 +19,10 @@ body{
   
   #img {
     position: absolute;
-    width: 665px;
+    width: 765px;
     height: 452px;
     left: 0;
-    bottom: 0;
+    bottom: -50px;
     border-radius: 70px;
   }
   .container {
@@ -69,4 +69,19 @@ h3{
 }
 a{
   text-decoration: none;
+}
+.p1{
+position: absolute;
+width: 600px;
+height: 675px;
+left: 100px;
+top: 303px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 39px;
+
+color: #000000;
 }
