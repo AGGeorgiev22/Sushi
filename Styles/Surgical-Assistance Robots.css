@@ -8,7 +8,7 @@ body{
     position: absolute;
     width: 50%;
     right: 150px;
-    top: 200px;
+    top: 175px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -19,10 +19,10 @@ body{
   
   #img {
     position: absolute;
-    width: 765px;
-    height: 452px;
-    left: 0;
-    bottom: 90px;
+    width: 700px;
+    height: 400px;
+    left: 25px;
+    bottom: 150px;
     border-radius: 70px;
   }
   .container {
