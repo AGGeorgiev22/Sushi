@@ -1,29 +1,31 @@
-body{
+body {
     position: relative;
     background: #0D84CF;
 }
+
 #img {
     position: absolute;
-width: 1035px;
-height: 959px;
-left: 870px;
-top: 26px;
+    width: 600px; 
+    height: 600px; 
+    left: 384px; 
+    top: 0; 
 
-background: url(mirosurge.jpg);
-border-radius: 70px;
+    background: url(mirosurge.jpg);
+    border-radius: 70px;
 }
+
 .p {
     position: absolute;
-width: 763px;
-height: 1442px;
-left: 52px;
-top: 26px;
+    width: 960px; 
+    height: 1080px; 
+    left: 0; 
+    top: 0; 
 
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 36px;
-line-height: 44px;
-
-color: #000000;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    
+    color: #000000;
 }
