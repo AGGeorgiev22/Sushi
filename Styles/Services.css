@@ -9,17 +9,57 @@ body{
     width: 800px;
     height: 543px;
     left: 56px;
-    top: 103px;
+    top: 203px;
 }
 .p{
     position: absolute;
     width: 907px;
     height: 892px;
     left: 960px;
-    top: 0px;
+    top: 200px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
     line-height: 48px;
+}
+.navbar {
+    margin-left: 9vw;
+    text-decoration: none;
+    position: absolute;
+    left: 40px;
+    top: 53px;
+    width: 85vw;
+    height: 10vh;
+    background-color: #0D84CF;
+    color: black;
+}
+h3{
+    display: inline-block;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 32px;
+    margin-left: 90px;
+    margin-top: 3vh;
+
+}
+#text{
+    color: black;
+}
+#text1{
+    color: black;
+}
+#text2{
+    color: black;
+}
+#text3{
+    color: black;
+}
+#Home{
+    color: black;
+}
+a{
+    text-decoration: none;
 }
