@@ -8,20 +8,20 @@ body{
     position: absolute;
     width: 800px;
     height: 543px;
-    left: 56px;
-    top: 363px;
+    left: 25px;
+    top: 275px;
     border-radius: 70px;
 }
 .p{
     position: absolute;
-    width: 907px;
-    height: 892px;
-    left: 960px;
-    top: 200px;
+    width: 807px;
+    height: 792px;
+    left: 860px;
+    top: 150px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 40px;
+    font-size: 30px;
     line-height: 48px;
 }
 .navbar {

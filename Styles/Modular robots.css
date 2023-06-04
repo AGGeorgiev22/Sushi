@@ -6,9 +6,9 @@ body {
 
 #img {
     position: absolute;
-    width: 935px;
-    height: 859px;
-    left: 870px;
+    width: 800px;
+    height: 700px;
+    left: 840px;
     top: 200px;
     border-radius: 70px;
 }
@@ -23,7 +23,7 @@ body {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 36px;
+    font-size: 30px;
     line-height: 44px;
     
     color: #000000;
