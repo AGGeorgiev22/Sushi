@@ -99,3 +99,18 @@ line-height: 39px;
 
 color: #000000;
 }
+#img1{
+  display: inline-block;
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 20px;
+  top: 50px;
+  border-radius: 70px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 39px;
+  color: #000000;
+}
