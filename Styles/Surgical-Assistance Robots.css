@@ -1,9 +1,22 @@
-body{
-    position: relative;
-    width: 1920px;
-    height: 1080px;
-    background: #0D84CF;
+body {
+  position: relative;
+  background: #0D84CF;
+   width: 1920px;
+  height: 1080px;
+  background: linear-gradient(-45deg, #ee1fc1, #b97432, #376b7e, #380cfc);
+  background-size: 4000% 4000%;
+  animation-name: bg;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+
 }
+@keyframes bg {
+  0%{background-position: 0 50%;}
+  50%{background-position: 100% 50%;}
+  100%{background-position: 0 50%;}
+
+  }
 .p {
     position: absolute;
     width: 50%;
@@ -36,10 +49,11 @@ body{
     position: absolute;
     left: 40px;
     top: 53px;
-    width: 85vw;
+    width: 80vw;
     height: 10vh;
-    background-color: #0D84CF;
+    background-color: #7f8f99;
     color: black;
+    border-radius: 70px;
 }
 h3{
   display: inline-block;
@@ -49,7 +63,7 @@ h3{
   font-size: 32px;
   line-height: 32px;
   margin-left: 90px;
-  margin-top: 3vh;
+  margin-top: 4vh;
 
 }
 #text{
