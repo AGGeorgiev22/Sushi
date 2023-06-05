@@ -4,7 +4,7 @@ body {
     background: #0D84CF;
      width: 1920px;
     height: 1080px;
-    background: linear-gradient(-45deg, #ee1fc1, #b97432, #376b7e, #380cfc);
+    background: linear-gradient(-45deg, #ee1fc1, #af723aee, #508da3, #380cfc);
     background-size: 4000% 4000%;
     animation-name: bg;
     animation-duration: 10s;
@@ -37,8 +37,8 @@ body {
     margin-left: 9vw;
     text-decoration: none;
     position: absolute;
-    left: 30px;
-    top: 53px;
+    left: 40px;
+    top: 43px;
     width: 80vw;
     height: 10vh;
     background-color: #7f8f99;

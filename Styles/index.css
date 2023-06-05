@@ -8,7 +8,7 @@
 body,html{
     width: 1920px;
     height: 1080px;
-    background: linear-gradient(-45deg, #ee1fc1, #b97432, #376b7e, #380cfc);
+    background: linear-gradient(-45deg, #ee1fc1, #b97432, #508da3, #380cfc);
     background-size: 4000% 4000%;
     animation-name: bg;
     animation-duration: 10s;
@@ -22,20 +22,20 @@ body,html{
 
     }
 
-#h1{
-    position: absolute;
-    width: 1052px;
-    height: 119px;
-    left: 0px;
-    top: 225px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 32px;
-    position: absolute;
+    #h1{
+        position: absolute;
+        width: 1052px;
+        height: 119px;
+        left: 85px;
+        top: 225px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 60px;
+        line-height: 116px;
+        position: absolute;
+    }
 
-}
 
 .navbar {
     margin-left: 9vw;
@@ -51,6 +51,7 @@ body,html{
 }
 #text{
     color: rgb(0, 0, 0);
+    top:90px;
 }
 #text1{
     color: rgb(0, 0, 0);
@@ -66,7 +67,7 @@ body,html{
     position: absolute;
     width: 600px;
     height: 300px;
-    left: 0px;
+    left: 30px;
     top: 368px;
     border-radius: 70px;
 }
